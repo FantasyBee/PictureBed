@@ -1,1 +1,1 @@
-# PictureBed
+# HTTP图解的学习图片资料存储库
